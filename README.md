@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 - **Responsive Design:** Ensuring the website is mobile-friendly and works well across different devices and screen sizes.
 - **User Accounts:** Providing users with accounts to manage their bookings, save preferences, and view booking history.
 #### Technology use:
-- Html, css Javascript, React, Express Monogodb 
+- Html, css, Tailwind, Javascript, React, React Router, Express, Monogodb
